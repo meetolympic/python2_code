@@ -1,7 +1,6 @@
 '''
 Created on 24-Mar-2016
 
-@author: sachindeshpande
 
 The purpose of the module is define the basic email class and
 collection of emails which are not bounded, actually bounded 
